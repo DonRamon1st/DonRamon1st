@@ -302,4 +302,4 @@ Aufgabe 8
 
 
 
-![image](https://user-images.githubusercontent.com/98127666/159746235-8f228ec8-54d0-4c0a-b26a-c9dd49f3a765.png)
+![image](https://user-images.githubusercontent.com/98127666/159746410-52497bf1-82f8-45d2-9d54-64552ea280f4.png)
