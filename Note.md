@@ -190,13 +190,13 @@ Aufgabe 5
 	Du versendest die Einladung für deine erste Retro an dein Team. Bald darauf erhälst du viele Absagen mit Begründungen wie "ich habe gerade keine Zeit", "Haben wir bereits vor 2 Wochen durchgeführt", "Die definierten Massnahmen werden eh nicht umgesetzt". Wie regierst du auf diese Absagen?
 	
 	
-		- Awerness Schaffen: ist das bewusst? Ist dies weiteroben im Leistungsteam bekannt?
+		- Awerness Schaffen: ist das bewusst? Ist dies weiteroben im Leistungsteam bekannt? Kennen die Gründe? (Untersützung aus dem Leitungsteam holen wenn nötig…)
 		- Der Ursache für dieses Problem auf den Grund gehen?
 			§ Warum ist dies so? Vertreten alle im Team diese Meinung?
 			§ Was ist der konktrete Grund?
 		- Dem Team Aufzeigen warum die Retro so wichtig ist, eben um genau solche Problem zu lösen. 
 		- Dem Team klar machen, das es neu mit mir nicht so sein wird einen neu Anfang machen!
-		- Untersützung aus dem Leitungsteam holen wenn nötig…
+		- 
 		
 
 ***********************************************************************************************
@@ -210,10 +210,36 @@ Aufgabe 6
 			§ Grill & Bier Retro
 			§ Lego Serious Play oder so ähndliche sachen
 			§ Innovation Sprint?
-			§ Ziel: Teamspirit fördern und eine guten offenen Austausch zu ermöglichen…
+			§ Rules of Engagement Retro - https://www.atlassian.com/team-playbook/plays/rules-of-engagement
+			§ Problem Framing - https://www.atlassian.com/wac/team-playbook/plays/problem-framing
+			§ Ziel: Teamspirit fördern und eine guten offenen Austausch zu ermöglichen…sicheres umfeld ermöglichen…
 		- Retro von Team Member organisieren lassen und nur am Rande unterstützen, wenn sie selber bestimmen können ist die intrinsische Motivation grösser.
+		- Futurespectives mit später checks machen (z.b. Pre-Mortem Activity)
 		- Externen Moderator/Speaker für Retro organisieren
+	
+	
+	
+		Konkretter Vorschlag:
 		
+		Grill (& Bier) Team Building Futurespective
+			Location: Outdoors / Woods / Partylocation
+			Doing: Retro & Grill
+		
+			1. Set the stage; Rules of Engagement Übung
+				1) Dies um sich gegenseitig und seine arbeitsweisen kennenzulernen…Wie Arbeitest du? Was ist dein Getränk? Dann hat am schluss jeder ein Bier und man tauscht sich weiter aus…Mood set!
+			
+			2. Main Part - Pre-Mortem Futurespective
+				- Gather data; create a shared understanding of the iteration
+				- Generate insights; look for patterns, themes, and connections, and to think about potential solutions
+				- Decide what to do; generate and prioritise potential actions
+		
+				Actions:
+					https://www.funretrospectives.com/pre-mortem-activity/
+					Fragen ev noch etwas anpassen…
+			
+			3. Close the retro
+				1) ROTI, was hast du mitgenommen. Nenne mir das spannendste von jemanden aus Rules of Engagement….
+			
 		
 
 		
@@ -279,12 +305,12 @@ Aufgabe 8
 	Wo siehst du die Herausforderung unter den gegebenen Rahmenbedingungen? Wie gehst du damit um?
 	
 	
-	Risk Management
+	Risk Management / Impediments:
 		a. Schelcht Team spirit erhächen leute aus dem trot heraushlden
 		b. Unterschiedliche maturitätslevels bei PO und anders wo sicherlich auch
 		c. Schlecht veloctiy
 		d. PI Plannung PO/ Leitung sicherstellen augenmekr gross auf PI
-		e. Effeiltiät vs effizienz beiden schreauben go bringe
+		e. Effeiltiät vs effizienz beiden schreauben go bringe - bsp pbi nicht abgeschlossen…
 		f. Teambildung auch oben in de Leitung das alle kommunizeiren und abgestimmt sind -> Teambildung im leitungs team
 	
 
@@ -302,4 +328,4 @@ Aufgabe 8
 
 
 
-![image](https://user-images.githubusercontent.com/98127666/159746410-52497bf1-82f8-45d2-9d54-64552ea280f4.png)
+![image](https://user-images.githubusercontent.com/98127666/159780804-9aeede23-3cd7-45c7-97b1-01c08d2a3da4.png)
