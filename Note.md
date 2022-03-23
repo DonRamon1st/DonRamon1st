@@ -93,26 +93,34 @@ Aufgabe 1:
 				2) Hobbys & Interessen
 	2. Erkläre dem Team dein Versändnis von Agilität
 		a. Agilität bedeutet für mich:
-			i. In einem Satz: Schnelle Anpassungfähigkeit auf basis von sich stetig veränderenden Anforderungen im Business oder Generell.
-			ii. Fast, flexible, adaptive, 
-			iii. Transparenz & offenheit
-			iv. Working on what there is and adapting this now in a flexible and transparent way, towards achiving the goal.
-			v. Wir sind dann Agil wenn wir uns schnell auf die neuen Marktanforderungen anpassen können…
+			i. In einem Satz: Schnelle und qulitativ guti Anpassungfähigkeit uf sich stetig veränderenden Anforderungen im Business oder Generell I de welt vu de Komplexe sache…
+			ii. Wir sind dann Agil wenn wir uns schnell auf die neuen Marktanforderungen anpassen können…und Risken mittigieren und die Chancen nutzen, das alles wemmer mit scrum mache….
+			iii. Scrum Values.
+				1) Scrum Pilars: Transparancy, Inspection, Adaption
+			iv. Basic Values:
+				Respect, Openness, Focus, Courage, Commitment
+			v. Effektivität vs. Effizienz
+Effectiveness vs. Efficiency
+				
+			vi. Learn, inspect, adapt, overcome Meme
+			vii. Fast, flexible, adaptive, transparent, 
+			viii. Working on what there is now and adapting this in a flexible and transparent way, this always towards achiving the goal.
+			ix. 
 			
 	3. Erkläre dem Team, wie du deine Rolle als SM zukünftig interpretieren wirst.
 		a. Unterstützer & Moderator (Facilitating)
 		b. Impediments Clearer / Impediments Löser / Konfliktsolver
-		c. Coaching & Ausbildner (Mentoring)
+		c. Coaching & Helfer (Mentoring)
 			i. In Prozessen
 			ii. Zu Habits
 			iii. Zu dedizierten Themen
 				1) Teambuliding
 				2) Scrum Framework
-		d. Communicator
-			i. Infofluss sicherstellen zwischen allen Stakeholders
-		e. Endziel: Value maximizer
-			i. Der Scrum Master sollte seine Teams so unterstützen um das beste möglichen herauszuhollen. 
-			
+		d. Communicator / Transparent macher
+			i. Infofluss sicherstellen zwischen allen Stakeholders…
+		e. Endziel: Value maximizer of scrum peoples
+			i. Der Scrum Master sollte seine Teams so unterstützen um das beste möglichen herauszuhollen.
+			ii. Vergleich mit Fussball coach…
 		
 	4. Erkläre dem Team, wie du einen reibungslosen Übergang vom alten Scrum Master zu dir sicherstellst.
 		Real Szenario: Abbau im CH/IOC und aufbau im CH/IPW
@@ -120,7 +128,7 @@ Aufgabe 1:
 		- Vorbereitung meiner Seits: Reseach, Reading und Projektdoku / Organisation etc…
 		- Introducation Meeting…zum Thema…
 		- Zusammen mit altem SM einen Iteration/Sprint durchmachen, Shadowing / gemeinsam durchmachen, danach übergabe
-		- Reflektionsmeeting, was kann ich besser machen…inputs abholen PO & andere Stakeholders
+		- Reflektions / Feedback meeting, was kann ich besser machen…inputs abholen PO & andere Stakeholders
 		
 
 ***********************************************************************************************
@@ -294,4 +302,4 @@ Aufgabe 8
 
 
 
-![image](https://user-images.githubusercontent.com/98127666/159742554-3c37a04c-3abd-4ccb-81ff-f0c2eb897c0b.png)
+![image](https://user-images.githubusercontent.com/98127666/159746235-8f228ec8-54d0-4c0a-b26a-c9dd49f3a765.png)
